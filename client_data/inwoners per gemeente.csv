@@ -1,0 +1,356 @@
+Gemeente;Inwoneraantal;Groot, middelgroot en klein
+?Aa en Hunze;25390;Klein
+?Aalsmeer;31499;Klein
+?Aalten;26962;Klein
+?Achtkarspelen;27935;Klein
+?Alblasserdam;20014;Klein
+?Albrandswaard;25218;Klein
+?Alkmaar;108470;Groot
+?Almelo;72629;Middelgroot
+?Almere;203990;Groot
+?Alphen aan den Rijn;109682;Groot
+?Alphen-Chaam;10083;Klein
+?Altena;54766;Middelgroot
+?Ameland;3654;Klein
+?Amersfoort;155226;Groot
+?Amstelveen;89870;Middelgroot
+?Amsterdam;854047;Groot
+?Apeldoorn;161156;Groot
+?Appingedam;11801;Klein
+?Arnhem;157223;Groot
+?Assen;67708;Middelgroot
+?Asten;16719;Klein
+?Baarle-Nassau;6799;Klein
+?Baarn;24630;Klein
+?Barendrecht;48477;Klein
+?Barneveld;57339;Middelgroot
+?Beek;15895;Klein
+?Beekdaelen;35969;Klein
+?Beemster;9550;Klein
+?Beesel;13444;Klein
+?Berg en Dal;34748;Klein
+?Bergeijk;18398;Klein
+?Bergen (L);13106;Klein
+?Bergen (NH);29941;Klein
+?Bergen op Zoom;66354;Middelgroot
+?Berkelland;44029;Klein
+?Bernheze;30550;Klein
+?Best;29497;Klein
+?Beuningen;25798;Klein
+?Beverwijk;41077;Klein
+?Bladel;20144;Klein
+?Blaricum;10795;Klein
+?Bloemendaal;23208;Klein
+?Bodegraven-Reeuwijk;33948;Klein
+?Boekel;10502;Klein
+?Borger-Odoorn;25351;Klein
+?Borne;23124;Klein
+?Borsele;22716;Klein
+?Boxmeer;28853;Klein
+?Boxtel;30672;Klein
+?Breda;183448;Groot
+?Brielle;17040;Klein
+?Bronckhorst;36352;Klein
+?Brummen;20771;Klein
+?Brunssum;28241;Klein
+?Bunnik;15214;Klein
+?Bunschoten;21266;Klein
+?Buren;26365;Klein
+?Capelle aan den IJssel;66854;Middelgroot
+?Castricum;35608;Klein
+?Coevorden;35299;Klein
+?Cranendonck;20336;Klein
+?Cuijk;24911;Klein
+?Culemborg;28195;Klein
+?Dalfsen;28242;Klein
+?Dantumadiel;18904;Klein
+?De Bilt;42846;Klein
+?De Fryske Marren;51742;Middelgroot
+?De Ronde Venen;43620;Klein
+?De Wolden;23917;Klein
+?Delft;102253;Groot
+?Delfzijl;24864;Klein
+?Den Helder;55760;Middelgroot
+?Deurne;32137;Klein
+?Deventer;99653;Middelgroot
+?Diemen;28121;Klein
+?Dinkelland;26291;Klein
+?Doesburg;11328;Klein
+?Doetinchem;57382;Middelgroot
+?Dongen;25777;Klein
+?Dordrecht;118426;Groot
+?Drechterland;19440;Klein
+?Drimmelen;27063;Klein
+?Dronten;40735;Klein
+?Druten;18701;Klein
+?Duiven;25438;Klein
+?Echt-Susteren;31751;Klein
+?Edam-Volendam;35953;Klein
+?Ede;114682;Groot
+?Eemnes;9112;Klein
+?Eersel;18778;Klein
+?Eijsden-Margraten;25566;Klein
+?Eindhoven;229126;Groot
+?Elburg;23107;Klein
+?Emmen;107192;Groot
+?Enkhuizen;18476;Klein
+?Enschede;158261;Groot
+?Epe;32863;Klein
+?Ermelo;26793;Klein
+?Etten-Leur;43532;Klein
+?Geertruidenberg;21517;Klein
+?Geldrop-Mierlo;39252;Klein
+?Gemert-Bakel;30340;Klein
+?Gennep;17052;Klein
+?Gilze en Rijen;26313;Klein
+?Goeree-Overflakkee;49129;Klein
+?Goes;37636;Klein
+?Goirle;23621;Klein
+?Gooise Meren;57337;Middelgroot
+?Gorinchem;36284;Klein
+?Gouda;72700;Middelgroot
+?Grave;12419;Klein
+?Groningen;229962;Groot
+?Gulpen-Wittem;14196;Klein
+?Haaksbergen;24291;Klein
+?Haaren;14103;Klein
+?Haarlem;159709;Groot
+?Haarlemmermeer;153149;Groot
+?Halderberge;29888;Klein
+?Hardenberg;60539;Middelgroot
+?Harderwijk;46832;Klein
+?Hardinxveld-Giessendam;17958;Klein
+?Harlingen;15783;Klein
+?Hattem;12154;Klein
+?Heemskerk;39146;Klein
+?Heemstede;27080;Klein
+?Heerde;18603;Klein
+?Heerenveen;50192;Middelgroot
+?Heerhugowaard;55850;Middelgroot
+?Heerlen;86762;Middelgroot
+?Heeze-Leende;15886;Klein
+?Heiloo;23099;Klein
+?Hellendoorn;35796;Klein
+?Hellevoetsluis;39997;Klein
+?Helmond;90903;Middelgroot
+?Hendrik-Ido-Ambacht;30677;Klein
+?Hengelo (O);80593;Middelgroot
+?Het Hogeland;48019;Klein
+?Heumen;16462;Klein
+?Heusden;43723;Klein
+?Hillegom;21812;Klein
+?Hilvarenbeek;15366;Klein
+?Hilversum;89521;Middelgroot
+?Hoeksche Waard;86115;Middelgroot
+?Hof van Twente;34930;Klein
+?Hollands Kroon;47681;Klein
+?Hoogeveen;55677;Middelgroot
+?Hoorn;72806;Middelgroot
+?Horst aan de Maas;42271;Klein
+?Houten;49579;Klein
+?Huizen;41369;Klein
+?Hulst;27472;Klein
+?IJsselstein;34302;Klein
+?Kaag en Braassem;26625;Klein
+?Kampen;53259;Middelgroot
+?Kapelle;12720;Klein
+?Katwijk;64956;Middelgroot
+?Kerkrade;45823;Klein
+?Koggenland;22659;Klein
+?Krimpen aan den IJssel;29306;Klein
+?Krimpenerwaard;55644;Middelgroot
+?Laarbeek;22158;Klein
+?Landerd;15332;Klein
+?Landgraaf;37612;Klein
+?Landsmeer;11435;Klein
+?Langedijk;27836;Klein
+?Lansingerland;61155;Middelgroot
+?Laren;11146;Klein
+?Leeuwarden;122415;Groot
+?Leiden;124306;Groot
+?Leiderdorp;27197;Klein
+?Leidschendam-Voorburg;74947;Middelgroot
+?Lelystad;77389;Middelgroot
+?Leudal;35857;Klein
+?Leusden;29755;Klein
+?Lingewaard;46372;Klein
+?Lisse;22746;Klein
+?Lochem;33574;Klein
+?Loon op Zand;23120;Klein
+?Lopik;14395;Klein
+?Loppersum;9732;Klein
+?Losser;22547;Klein
+?Maasdriel;24350;Klein
+?Maasgouw;23697;Klein
+?Maassluis;32518;Klein
+?Maastricht;122723;Groot
+?Medemblik;44480;Klein
+?Meerssen;19039;Klein
+?Meierijstad;80148;Middelgroot
+?Meppel;33410;Klein
+?Middelburg;48303;Klein
+?Midden-Delfland;19338;Klein
+?Midden-Drenthe;33172;Klein
+?Midden-Groningen;60951;Middelgroot
+?Mill en Sint Hubert;10831;Klein
+?Moerdijk;36967;Klein
+?Molenlanden;43846;Klein
+?Montferland;35627;Klein
+?Montfoort;13879;Klein
+?Mook en Middelaar;7768;Klein
+?Neder-Betuwe;23615;Klein
+?Nederweert;17038;Klein
+?Nieuwegein;62426;Middelgroot
+?Nieuwkoop;28269;Klein
+?Nijkerk;42307;Klein
+?Nijmegen;175948;Groot
+?Nissewaard;84588;Middelgroot
+?Noord-Beveland;7314;Klein
+?Noordenveld;32370;Klein
+?Noordoostpolder;46625;Klein
+?Noordwijk;42661;Klein
+?Nordeast-Fryslƒn;45287;Klein
+?Nuenen, Gerwen en Nede;23019;Klein
+?Nunspeet;27114;Klein
+?Oegstgeest;23887;Klein
+?Oirschot;18558;Klein
+?Oisterwijk;26132;Klein
+?Oldambt;38075;Klein
+?Oldebroek;23504;Klein
+?Oldenzaal;31915;Klein
+?Olst-Wijhe;18023;Klein
+?Ommen;17630;Klein
+?Oost Gelre;29675;Klein
+?Oosterhout;55147;Middelgroot
+?Ooststellingwerf;25459;Klein
+?Oostzaan;9735;Klein
+?Opmeer;11526;Klein
+?Opsterland;29753;Klein
+?Oss;90951;Middelgroot
+?Oude IJsselstreek;39520;Klein
+?Ouder-Amstel;13496;Klein
+?Oudewater;10180;Klein
+?Overbetuwe;47481;Klein
+?Papendrecht;32264;Klein
+?Peel en Maas;43312;Klein
+?Pekela;12245;Klein
+?Pijnacker-Nootdorp;53634;Middelgroot
+?Purmerend;79983;Middelgroot
+?Putten;24313;Klein
+?Raalte;37158;Klein
+?Reimerswaal;22555;Klein
+?Renkum;31338;Klein
+?Renswoude;5175;Klein
+?Reusel-De Mierden;13040;Klein
+?Rheden;43527;Klein
+?Rhenen;19816;Klein
+?Ridderkerk;45789;Klein
+?Rijssen-Holten;38097;Klein
+?Rijswijk;52208;Middelgroot
+?Roerdalen;20728;Klein
+?Roermond;57761;Middelgroot
+?Roosendaal;77000;Middelgroot
+?Rotterdam;638712;Groot
+?Rozendaal;1575;Klein
+?Rucphen;22401;Klein
+?Schagen;46379;Klein
+?Scherpenzeel;9751;Klein
+?Schiedam;77907;Middelgroot
+?Schiermonnikoog;932;Klein
+?Schouwen-Duiveland;33687;Klein
+?'s-Gravenhage;532561;Groot
+?'s-Hertogenbosch;153434;Groot
+?Simpelveld;10561;Klein
+?Sint Anthonis;11577;Klein
+?Sint-Michielsgestel;28673;Klein
+?Sittard-Geleen;92956;Middelgroot
+?Sliedrecht;25020;Klein
+?Sluis;23526;Klein
+?Smallingerland;55889;Middelgroot
+?Soest;46089;Klein
+?Someren;19120;Klein
+?Son en Breugel;16753;Klein
+?Stadskanaal;32258;Klein
+?Staphorst;16797;Klein
+?Stede Broec;21670;Klein
+?Steenbergen;24781;Klein
+?Steenwijkerland;43768;Klein
+?Stein;24987;Klein
+?Stichtse Vecht;64513;Middelgroot
+?S£dwest Fryslƒn;89583;Middelgroot
+?Terneuzen;54440;Middelgroot
+?Terschelling;4906;Klein
+?Texel;13584;Klein
+?Teylingen;36584;Klein
+?Tholen;25583;Klein
+?Tiel;41465;Klein
+?Tilburg;215521;Groot
+?Tubbergen;21213;Klein
+?Twenterand;33903;Klein
+?Tynaarlo;33462;Klein
+?Tytsjerksteradiel;31870;Klein
+?Uden;41725;Klein
+?Uitgeest;13520;Klein
+?Uithoorn;29445;Klein
+?Urk;20524;Klein
+?Utrecht;347483;Groot
+?Utrechtse Heuvelrug;49314;Klein
+?Vaals;9874;Klein
+?Valkenburg aan de Geul;16431;Klein
+?Valkenswaard;30654;Klein
+?Veendam;27508;Klein
+?Veenendaal;64918;Middelgroot
+?Veere;21867;Klein
+?Veldhoven;44925;Klein
+?Velsen;67831;Middelgroot
+?Venlo;101192;Groot
+?Venray;43341;Klein
+?Vijfheerenlanden;55001;Middelgroot
+?Vlaardingen;72050;Middelgroot
+?Vlieland;1132;Klein
+?Vlissingen;44485;Klein
+?Voerendaal;12390;Klein
+?Voorschoten;25453;Klein
+?Voorst;24310;Klein
+?Vught;26418;Klein
+?Waadhoeke;46112;Klein
+?Waalre;17075;Klein
+?Waalwijk;47725;Klein
+?Waddinxveen;27578;Klein
+?Wageningen;38412;Klein
+?Wassenaar;26084;Klein
+?Waterland;17259;Klein
+?Weert;49855;Klein
+?Weesp;19147;Klein
+?West Betuwe;50349;Middelgroot
+?West Maas en Waal;18891;Klein
+?Westerkwartier;62844;Middelgroot
+?Westerveld;19152;Klein
+?Westervoort;15015;Klein
+?Westerwolde;24684;Klein
+?Westland;107492;Groot
+?Weststellingwerf;25720;Klein
+?Westvoorne;14508;Klein
+?Wierden;24258;Klein
+?Wijchen;40847;Klein
+?Wijdemeren;23659;Klein
+?Wijk bij Duurstede;23678;Klein
+?Winterswijk;28987;Klein
+?Woensdrecht;21800;Klein
+?Woerden;51758;Middelgroot
+?Wormerland;15995;Klein
+?Woudenberg;13021;Klein
+?Zaanstad;154865;Groot
+?Zaltbommel;28014;Klein
+?Zandvoort;16970;Klein
+?Zeewolde;22407;Klein
+?Zeist;63322;Middelgroot
+?Zevenaar;43402;Klein
+?Zoetermeer;124695;Groot
+?Zoeterwoude;8430;Klein
+?Zuidplas;41882;Klein
+?Zundert;21525;Klein
+?Zutphen;47537;Klein
+?Zwartewaterland;22468;Klein
+?Zwijndrecht;44586;Klein
+?Zwolle;126116;Groot
