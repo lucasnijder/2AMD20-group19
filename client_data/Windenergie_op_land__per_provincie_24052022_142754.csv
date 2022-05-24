@@ -1,0 +1,27 @@
+﻿"Regio's";"Perioden";"Windmolens/In gebruik genomen windmolens (aantal)";"Windmolens/Uit gebruik genomen windmolens (aantal)";"Windmolens/Opgestelde windmolens einde van jaar (aantal)";"Rotoroppervlak/In gebruik genomen rotoroppervlak (1 000 m2)";"Rotoroppervlak/Uit gebruik genomen rotoroppervlak (1 000 m2)";"Rotoroppervlak/Opgesteld rotoroppervlak einde jaar (1 000 m2)";"Elektrisch vermogen/In gebruik genomen vermogen (megawatt)";"Elektrisch vermogen/Uit gebruik genomen vermogen (megawatt)";"Elektrisch vermogen/Opgesteld vermogen einde jaar (megawatt)";"Elektriciteitsproductie/Genormaliseerde productie (mln kWh)";"Elektriciteitsproductie/Niet-genormaliseerde productie (mln kWh)";"Elektriciteitsproductie/Productiefactor (%)";"Elektriciteitsproductie/Productie per rotoroppervlak (kWh per m2)";"Elektriciteitsproductie/Aantal vollasturen (uur)"
+"Nederland";"2019";49;46;2032;485;168;8515;159;68;3527;7429;7935;25,9;943;2265
+"Nederland";"2020";189;77;2144;2029;132;10411;691;59;4159;8962;9856;29,1;1038;2559
+"Groningen (PV)";"2019";1;0;219;4;0;899;2;0;450;986;1054;26,7;1172;2342
+"Groningen (PV)";"2020";40;16;243;553;14;1438;176;7;618;1083;1190;27,8;1173;2441
+"Fryslân (PV)";"2019";1;0;303;2;0;496;1;0;197;415;444;25,8;897;2264
+"Fryslân (PV)";"2020";2;11;294;13;6;502;4;2;198;451;496;28,6;994;2513
+"Drenthe (PV)";"2019";0;0;9;0;0;53;0;0;22;;;;;
+"Drenthe (PV)";"2020";6;0;15;55;0;108;21;0;43;;;;;
+"Overijssel (PV)";"2019";8;0;25;67;0;154;19;0;61;86;92;23,1;941;2022
+"Overijssel (PV)";"2020";2;0;27;15;0;169;5;0;66;142;156;27;930;2372
+"Flevoland (PV)";"2019";0;15;625;0;58;2698;0;23;1175;2424;2589;24,8;944;2170
+"Flevoland (PV)";"2020";13;26;612;47;75;2670;28;34;1169;2531;2783;27,1;1041;2382
+"Gelderland (PV)";"2019";0;0;39;0;0;220;0;0;82;152;163;22,7;739;1987
+"Gelderland (PV)";"2020";14;1;52;203;0;423;57;0;139;303;333;28;812;2461
+"Utrecht (PV)";"2019";0;0;16;0;0;113;0;0;34;78;83;27,8;736;2439
+"Utrecht (PV)";"2020";1;0;17;0;0;113;0;0;34;88;97;32,3;857;2840
+"Noord-Holland (PV)";"2019";15;29;260;145;108;763;47;44;313;635;678;24;876;2106
+"Noord-Holland (PV)";"2020";95;14;341;999;21;1741;336;8;641;1270;1397;31;1021;2720
+"Zuid-Holland (PV)";"2019";15;2;171;200;3;1101;64;1;437;956;1021;27,7;971;2425
+"Zuid-Holland (PV)";"2020";2;7;166;19;9;1111;12;4;446;1122;1234;32,2;1124;2825
+"Zeeland (PV)";"2019";6;0;245;23;0;1370;14;0;519;1189;1270;28,3;935;2479
+"Zeeland (PV)";"2020";2;1;246;15;4;1382;8;2;525;1327;1459;31,9;1061;2800
+"Noord-Brabant (PV)";"2019";3;0;114;44;0;621;13;0;225;442;472;25,3;812;2213
+"Noord-Brabant (PV)";"2020";10;0;124;84;0;705;34;0;259;541;595;28;905;2459
+"Limburg (PV)";"2019";0;0;6;0;0;27;0;0;13;;;;;
+"Limburg (PV)";"2020";2;1;7;25;2;50;9;1;21;;;;;
