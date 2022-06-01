@@ -1,357 +1,357 @@
-,Gemeentenaam,GemiddeldAardgasverbruik,GemiddeldElektriciteitsverbruik
-0,'s-Gravenhage                           ,1344290.0,3002430.0
-1,'s-Hertogenbosch                        ,985580.0,2318090.0
-2,Aa en Hunze                             ,632890.0,1093470.0
-3,Aalsmeer                                ,148310.0,319190.0
-4,Aalten                                  ,325310.0,690380.0
-5,Achtkarspelen                           ,263420.0,482300.0
-6,Alblasserdam                            ,255920.0,645420.0
-7,Albrandswaard                           ,277330.0,655960.0
-8,Alkmaar                                 ,667390.0,1421100.0
-9,Almelo                                  ,756600.0,1617440.0
-10,Almere                                  ,276280.0,1251620.0
-11,Alphen aan den Rijn                     ,994440.0,2310430.0
-12,Alphen-Chaam                            ,183320.0,382210.0
-13,Altena                                  ,684710.0,1642800.0
-14,Ameland                                 ,87330.0,150080.0
-15,Amersfoort                              ,1385760.0,3222310.0
-16,Amstelveen                              ,635560.0,1383400.0
-17,Amsterdam                               ,2696480.0,6701330.0
-18,Apeldoorn                               ,1058190.0,2204380.0
-19,Appingedam                              ,76840.0,134280.0
-20,Arnhem                                  ,928010.0,1949580.0
-21,Assen                                   ,941630.0,1785320.0
-22,Asten                                   ,169750.0,383670.0
-23,Baarle-Nassau                           ,108320.0,237320.0
-24,Baarn                                   ,332170.0,593560.0
-25,Barendrecht                             ,602850.0,1641760.0
-26,Barneveld                               ,619710.0,1342090.0
-27,Beek                                    ,116020.0,240980.0
-28,Beekdaelen                              ,424270.0,838800.0
-29,Beemster                                ,130080.0,274190.0
-30,Beesel                                  ,101490.0,236410.0
-31,Berg en Dal                             ,515950.0,1044370.0
-32,Bergeijk                                ,599960.0,1334020.0
-33,Bergen (L.)                             ,212460.0,491030.0
-34,Bergen (NH.)                            ,479350.0,881590.0
-35,Bergen op Zoom                          ,413910.0,940070.0
-36,Berkelland                              ,447630.0,895720.0
-37,Bernheze                                ,618740.0,1428230.0
-38,Best                                    ,188940.0,420970.0
-39,Beuningen                               ,388730.0,900110.0
-40,Beverwijk                               ,407010.0,917000.0
-41,Bladel                                  ,178240.0,414740.0
-42,Blaricum                                ,76480.0,167630.0
-43,Bloemendaal                             ,392880.0,685130.0
-44,Bodegraven-Reeuwijk                     ,381360.0,908920.0
-45,Boekel                                  ,112170.0,276950.0
-46,Borger-Odoorn                           ,538850.0,911130.0
-47,Borne                                   ,175480.0,409680.0
-48,Borsele                                 ,384480.0,811870.0
-49,Boxmeer                                 ,413560.0,944210.0
-50,Boxtel                                  ,206950.0,465680.0
-51,Breda                                   ,597810.0,1489390.0
-52,Brielle                                 ,160700.0,405030.0
-53,Bronckhorst                             ,535860.0,1072460.0
-54,Brummen                                 ,459970.0,901220.0
-55,Brunssum                                ,429980.0,901530.0
-56,Bunnik                                  ,127070.0,252630.0
-57,Bunschoten                              ,127450.0,286270.0
-58,Buren                                   ,458630.0,1008340.0
-59,Capelle aan den IJssel                  ,440560.0,1411130.0
-60,Castricum                               ,300400.0,584060.0
-61,Coevorden                               ,642850.0,1212390.0
-62,Cranendonck                             ,228070.0,512690.0
-63,Cuijk                                   ,256880.0,580590.0
-64,Culemborg                               ,91090.0,216680.0
-65,Dalfsen                                 ,395300.0,794440.0
-66,Dantumadiel                             ,197180.0,336070.0
-67,De Bilt                                 ,423390.0,807570.0
-68,De Fryske Marren                        ,1023840.0,1939250.0
-69,De Ronde Venen                          ,359600.0,790520.0
-70,De Wolden                               ,536390.0,1004170.0
-71,Delft                                   ,566810.0,1417260.0
-72,Delfzijl                                ,473330.0,805680.0
-73,Den Helder                              ,552920.0,1080000.0
-74,Deurne                                  ,251670.0,567460.0
-75,Deventer                                ,760360.0,1607220.0
-76,Diemen                                  ,196690.0,609060.0
-77,Dinkelland                              ,612780.0,1289620.0
-78,Doesburg                                ,85550.0,181290.0
-79,Doetinchem                              ,821220.0,1743140.0
-80,Dongen                                  ,176990.0,409310.0
-81,Dordrecht                               ,909800.0,2111670.0
-82,Drechterland                            ,229160.0,468980.0
-83,Drimmelen                               ,206560.0,486670.0
-84,Dronten                                 ,365050.0,846110.0
-85,Druten                                  ,182940.0,394250.0
-86,Duiven                                  ,116880.0,448020.0
-87,Echt-Susteren                           ,531220.0,1102280.0
-88,Edam-Volendam                           ,387190.0,783580.0
-89,Ede                                     ,838060.0,1888470.0
-90,Eemnes                                  ,103100.0,198150.0
-91,Eersel                                  ,309690.0,650770.0
-92,Eijsden-Margraten                       ,456170.0,876410.0
-93,Eindhoven                               ,1164080.0,2470070.0
-94,Elburg                                  ,214280.0,452310.0
-95,Emmen                                   ,1042450.0,1979910.0
-96,Enkhuizen                               ,105300.0,219980.0
-97,Enschede                                ,756140.0,1738070.0
-98,Epe                                     ,372060.0,725620.0
-99,Ermelo                                  ,178540.0,391720.0
-100,Etten-Leur                              ,450830.0,1069730.0
-101,Geertruidenberg                         ,110980.0,274260.0
-102,Geldrop-Mierlo                          ,156700.0,336220.0
-103,Gemert-Bakel                            ,326900.0,779650.0
-104,Gennep                                  ,208940.0,485640.0
-105,Gilze en Rijen                          ,139540.0,343190.0
-106,Goeree-Overflakkee                      ,609830.0,1346730.0
-107,Goes                                    ,315730.0,685490.0
-108,Goirle                                  ,443340.0,1073910.0
-109,Gooise Meren                            ,763060.0,1425580.0
-110,Gorinchem                               ,315290.0,771590.0
-111,Gouda                                   ,477740.0,1065250.0
-112,Grave                                   ,210730.0,454950.0
-113,Groningen                               ,1195430.0,2297760.0
-114,Gulpen-Wittem                           ,395740.0,748790.0
-115,Haaksbergen                             ,388070.0,824750.0
-116,Haaren                                  ,193410.0,419180.0
-117,Haarlem                                 ,1038760.0,2095650.0
-118,Haarlemmermeer                          ,1072340.0,2420350.0
-119,Halderberge                             ,258310.0,572160.0
-120,Hardenberg                              ,934010.0,1995920.0
-121,Harderwijk                              ,641060.0,1380970.0
-122,Hardinxveld-Giessendam                  ,58010.0,137630.0
-123,Harlingen                               ,140880.0,254500.0
-124,Hattem                                  ,144030.0,259340.0
-125,Heemskerk                               ,400770.0,867460.0
-126,Heemstede                               ,239170.0,439090.0
-127,Heerde                                  ,164470.0,323970.0
-128,Heerenveen                              ,369330.0,703280.0
-129,Heerhugowaard                           ,445260.0,1163620.0
-130,Heerlen                                 ,787740.0,1640560.0
-131,Heeze-Leende                            ,164670.0,348180.0
-132,Heiloo                                  ,295130.0,546490.0
-133,Hellendoorn                             ,508350.0,1033360.0
-134,Hellevoetsluis                          ,362290.0,1022550.0
-135,Helmond                                 ,484830.0,1223600.0
-136,Hendrik-Ido-Ambacht                     ,166610.0,413820.0
-137,Hengelo                                 ,642800.0,1379150.0
-138,Het Hogeland                            ,825230.0,1308400.0
-139,Heumen                                  ,199840.0,446440.0
-140,Heusden                                 ,303800.0,695920.0
-141,Hillegom                                ,241350.0,579530.0
-142,Hilvarenbeek                            ,180860.0,404970.0
-143,Hilversum                               ,571290.0,1028940.0
-144,Hoeksche Waard                          ,523150.0,1183110.0
-145,Hof van Twente                          ,591770.0,1217830.0
-146,Hollands Kroon                          ,495590.0,1045150.0
-147,Hoogeveen                               ,580470.0,1149120.0
-148,Hoorn                                   ,691140.0,1550880.0
-149,Horst aan de Maas                       ,658750.0,1453450.0
-150,Houten                                  ,468510.0,1323260.0
-151,Huizen                                  ,435590.0,857150.0
-152,Hulst                                   ,518880.0,1026880.0
-153,IJsselstein                             ,252800.0,626860.0
-154,Kaag en Braassem                        ,298790.0,678600.0
-155,Kampen                                  ,408710.0,818230.0
-156,Kapelle                                 ,84910.0,177910.0
-157,Katwijk                                 ,440020.0,1017470.0
-158,Kerkrade                                ,240670.0,482980.0
-159,Koggenland                              ,569690.0,1264810.0
-160,Krimpen aan den IJssel                  ,85240.0,187870.0
-161,Krimpenerwaard                          ,708160.0,1575300.0
-162,Laarbeek                                ,190030.0,423920.0
-163,Landerd                                 ,164930.0,384430.0
-164,Landgraaf                               ,327760.0,674800.0
-165,Landsmeer                               ,117390.0,254590.0
-166,Langedijk                               ,79430.0,189130.0
-167,Lansingerland                           ,637030.0,1636700.0
-168,Laren                                   ,176910.0,327510.0
-169,Leeuwarden                              ,1152690.0,2174630.0
-170,Leiden                                  ,495220.0,1150540.0
-171,Leiderdorp                              ,180260.0,421900.0
-172,Leidschendam-Voorburg                   ,539730.0,1111310.0
-173,Lelystad                                ,721630.0,1967790.0
-174,Leudal                                  ,501730.0,1089610.0
-175,Leusden                                 ,345670.0,748960.0
-176,Lingewaard                              ,274670.0,602590.0
-177,Lisse                                   ,262000.0,590660.0
-178,Lochem                                  ,472280.0,896500.0
-179,Loon op Zand                            ,362660.0,843280.0
-180,Lopik                                   ,171420.0,380420.0
-181,Loppersum                               ,258630.0,404700.0
-182,Losser                                  ,210310.0,426170.0
-183,Maasdriel                               ,311440.0,678400.0
-184,Maasgouw                                ,278580.0,547750.0
-185,Maassluis                               ,216070.0,524520.0
-186,Maastricht                              ,535380.0,1063410.0
-187,Medemblik                               ,635230.0,1379320.0
-188,Meerssen                                ,215560.0,417500.0
-189,Meierijstad                             ,973390.0,2166120.0
-190,Meppel                                  ,456790.0,938430.0
-191,Middelburg                              ,239730.0,480830.0
-192,Midden-Delfland                         ,145190.0,308170.0
-193,Midden-Drenthe                          ,605140.0,1093740.0
-194,Midden-Groningen                        ,938150.0,1673030.0
-195,Mill en Sint Hubert                     ,202940.0,460840.0
-196,Moerdijk                                ,443300.0,1051880.0
-197,Molenlanden                             ,910680.0,1869380.0
-198,Montferland                             ,310910.0,691750.0
-199,Montfoort                               ,158470.0,349850.0
-200,Mook en Middelaar                       ,94590.0,187650.0
-201,Neder-Betuwe                            ,217040.0,478910.0
-202,Nederland                               ,10250.0,23000.0
-203,Nederweert                              ,209550.0,487150.0
-204,Nieuwegein                              ,238120.0,857710.0
-205,Nieuwkoop                               ,286580.0,673150.0
-206,Nijkerk                                 ,387560.0,873800.0
-207,Nijmegen                                ,483560.0,1042100.0
-208,Nissewaard                              ,693350.0,1926700.0
-209,Noardeast-FryslÃ¢n                       ,944520.0,1598340.0
-210,Noord-Beveland                          ,156480.0,305310.0
-211,Noordenveld                             ,366990.0,633030.0
-212,Noordoostpolder                         ,495430.0,1089900.0
-213,Noordwijk                               ,203390.0,424660.0
-214,"Nuenen, Gerwen en Nederwetten           ",160500.0,335420.0
-215,Nunspeet                                ,185060.0,375360.0
-216,Oegstgeest                              ,142350.0,336980.0
-217,Oirschot                                ,201870.0,488210.0
-218,Oisterwijk                              ,428300.0,915420.0
-219,Oldambt                                 ,608780.0,1030200.0
-220,Oldebroek                               ,261530.0,548880.0
-221,Oldenzaal                               ,296250.0,637160.0
-222,Olst-Wijhe                              ,349870.0,716120.0
-223,Ommen                                   ,497370.0,975890.0
-224,Oost Gelre                              ,478120.0,1031360.0
-225,Oosterhout                              ,509210.0,1221460.0
-226,Ooststellingwerf                        ,680270.0,1175890.0
-227,Oostzaan                                ,65380.0,142900.0
-228,Opmeer                                  ,124990.0,268320.0
-229,Opsterland                              ,603170.0,1115110.0
-230,Oss                                     ,1188910.0,2528370.0
-231,Oude IJsselstreek                       ,366810.0,786740.0
-232,Ouder-Amstel                            ,64290.0,184320.0
-233,Oudewater                               ,196340.0,431400.0
-234,Overbetuwe                              ,358700.0,825540.0
-235,Papendrecht                             ,82140.0,217330.0
-236,Peel en Maas                            ,374600.0,839040.0
-237,Pekela                                  ,83010.0,141810.0
-238,Pijnacker-Nootdorp                      ,265650.0,729200.0
-239,Purmerend                               ,132760.0,696200.0
-240,Putten                                  ,166140.0,361640.0
-241,Raalte                                  ,572530.0,1142360.0
-242,Reimerswaal                             ,286800.0,637470.0
-243,Renkum                                  ,608840.0,1070000.0
-244,Renswoude                               ,43880.0,100400.0
-245,Reusel-De Mierden                       ,163180.0,375110.0
-246,Rheden                                  ,233100.0,439540.0
-247,Rhenen                                  ,442100.0,934610.0
-248,Ridderkerk                              ,212400.0,474270.0
-249,Rijssen-Holten                          ,424160.0,797580.0
-250,Rijswijk                                ,346480.0,750670.0
-251,Roerdalen                               ,250480.0,510790.0
-252,Roermond                                ,471970.0,997880.0
-253,Roosendaal                              ,663300.0,1431740.0
-254,Rotterdam                               ,655650.0,1755990.0
-255,Rozendaal                               ,43740.0,93570.0
-256,Rucphen                                 ,175250.0,403320.0
-257,Schagen                                 ,780940.0,1648920.0
-258,Scherpenzeel                            ,54090.0,123160.0
-259,Schiedam                                ,475700.0,1077650.0
-260,Schiermonnikoog                         ,40180.0,64840.0
-261,Schouwen-Duiveland                      ,587020.0,1174200.0
-262,Simpelveld                              ,138880.0,255960.0
-263,Sint Anthonis                           ,197780.0,480590.0
-264,Sint-Michielsgestel                     ,311890.0,690510.0
-265,Sittard-Geleen                          ,459980.0,990530.0
-266,Sliedrecht                              ,281930.0,621210.0
-267,Sluis                                   ,426130.0,780440.0
-268,Smallingerland                          ,319630.0,618970.0
-269,Soest                                   ,406740.0,839970.0
-270,Someren                                 ,191580.0,435240.0
-271,Son en Breugel                          ,116720.0,254590.0
-272,Stadskanaal                             ,330600.0,598130.0
-273,Staphorst                               ,320730.0,646280.0
-274,Stede Broec                             ,97950.0,216450.0
-275,Steenbergen                             ,203220.0,496860.0
-276,Steenwijkerland                         ,1017010.0,1932370.0
-277,Stein                                   ,184740.0,394790.0
-278,Stichtse Vecht                          ,945310.0,1967190.0
-279,SÃºdwest-FryslÃ¢n                         ,1406330.0,2571970.0
-280,Terneuzen                               ,578510.0,1134150.0
-281,Terschelling                            ,179300.0,320780.0
-282,Texel                                   ,177710.0,335830.0
-283,Teylingen                               ,153830.0,339680.0
-284,Tholen                                  ,233420.0,522320.0
-285,Tiel                                    ,338430.0,722070.0
-286,Tilburg                                 ,1737750.0,5099460.0
-287,Tubbergen                               ,339770.0,745020.0
-288,Twenterand                              ,366670.0,803500.0
-289,Tynaarlo                                ,547110.0,959590.0
-290,Tytsjerksteradiel                       ,401510.0,699970.0
-291,Uden                                    ,301050.0,701430.0
-292,Uitgeest                                ,83770.0,188420.0
-293,Uithoorn                                ,223270.0,494230.0
-294,Urk                                     ,123280.0,269410.0
-295,Utrecht                                 ,744070.0,2079740.0
-296,Utrechtse Heuvelrug                     ,442820.0,844220.0
-297,Vaals                                   ,107950.0,229030.0
-298,Valkenburg aan de Geul                  ,330790.0,599830.0
-299,Valkenswaard                            ,246550.0,549150.0
-300,Veendam                                 ,235470.0,404060.0
-301,Veenendaal                              ,396700.0,929860.0
-302,Veere                                   ,416840.0,819640.0
-303,Veldhoven                               ,216210.0,489470.0
-304,Velsen                                  ,680410.0,1419260.0
-305,Venlo                                   ,1132190.0,2385600.0
-306,Venray                                  ,596150.0,1328570.0
-307,Vijfheerenlanden                        ,544030.0,1171460.0
-308,Vlaardingen                             ,293090.0,715550.0
-309,Vlieland                                ,32950.0,69600.0
-310,Vlissingen                              ,324690.0,704030.0
-311,Voerendaal                              ,233760.0,460640.0
-312,Voorschoten                             ,156500.0,332600.0
-313,Voorst                                  ,361360.0,740810.0
-314,Vught                                   ,238730.0,498360.0
-315,Waadhoeke                               ,1139670.0,2122820.0
-316,Waalre                                  ,87630.0,173620.0
-317,Waalwijk                                ,227090.0,514440.0
-318,Waddinxveen                             ,245630.0,564780.0
-319,Wageningen                              ,357090.0,789960.0
-320,Wassenaar                               ,375660.0,621160.0
-321,Waterland                               ,263200.0,556850.0
-322,Weert                                   ,534690.0,1133530.0
-323,Weesp                                   ,222890.0,535830.0
-324,West Betuwe                             ,742480.0,1647740.0
-325,West Maas en Waal                       ,275630.0,565980.0
-326,Westerkwartier                          ,935750.0,1672860.0
-327,Westerveld                              ,572030.0,1034060.0
-328,Westervoort                             ,45910.0,167740.0
-329,Westerwolde                             ,603680.0,1040720.0
-330,Westland                                ,764260.0,1854560.0
-331,Weststellingwerf                        ,701050.0,1264220.0
-332,Westvoorne                              ,181760.0,393120.0
-333,Wierden                                 ,350350.0,736260.0
-334,Wijchen                                 ,608090.0,1389740.0
-335,Wijdemeren                              ,293260.0,582690.0
-336,Wijk bij Duurstede                      ,229840.0,528840.0
-337,Winterswijk                             ,212340.0,435070.0
-338,Woensdrecht                             ,178270.0,413220.0
-339,Woerden                                 ,395850.0,836650.0
-340,Wormerland                              ,185050.0,384810.0
-341,Woudenberg                              ,142860.0,311390.0
-342,Zaanstad                                ,655650.0,1382440.0
-343,Zaltbommel                              ,296440.0,699510.0
-344,Zandvoort                               ,212710.0,438040.0
-345,Zeewolde                                ,98140.0,202610.0
-346,Zeist                                   ,446130.0,896730.0
-347,Zevenaar                                ,467130.0,1044910.0
-348,Zoetermeer                              ,302180.0,771790.0
-349,Zoeterwoude                             ,217240.0,479390.0
-350,Zuidplas                                ,432820.0,1062900.0
-351,Zundert                                 ,186160.0,404530.0
-352,Zutphen                                 ,370140.0,756230.0
-353,Zwartewaterland                         ,361420.0,742320.0
-354,Zwijndrecht                             ,656700.0,1468820.0
-355,Zwolle                                  ,772210.0,1698240.0
+Gemeentenaam,GemiddeldAardgasverbruik,GemiddeldElektriciteitsverbruik
+'s-Gravenhage                           ,1344290.0,3002430.0
+'s-Hertogenbosch                        ,985580.0,2318090.0
+Aa en Hunze                             ,632890.0,1093470.0
+Aalsmeer                                ,148310.0,319190.0
+Aalten                                  ,325310.0,690380.0
+Achtkarspelen                           ,263420.0,482300.0
+Alblasserdam                            ,255920.0,645420.0
+Albrandswaard                           ,277330.0,655960.0
+Alkmaar                                 ,667390.0,1421100.0
+Almelo                                  ,756600.0,1617440.0
+Almere                                  ,276280.0,1251620.0
+Alphen aan den Rijn                     ,994440.0,2310430.0
+Alphen-Chaam                            ,183320.0,382210.0
+Altena                                  ,684710.0,1642800.0
+Ameland                                 ,87330.0,150080.0
+Amersfoort                              ,1385760.0,3222310.0
+Amstelveen                              ,635560.0,1383400.0
+Amsterdam                               ,2696480.0,6701330.0
+Apeldoorn                               ,1058190.0,2204380.0
+Appingedam                              ,76840.0,134280.0
+Arnhem                                  ,928010.0,1949580.0
+Assen                                   ,941630.0,1785320.0
+Asten                                   ,169750.0,383670.0
+Baarle-Nassau                           ,108320.0,237320.0
+Baarn                                   ,332170.0,593560.0
+Barendrecht                             ,602850.0,1641760.0
+Barneveld                               ,619710.0,1342090.0
+Beek                                    ,116020.0,240980.0
+Beekdaelen                              ,424270.0,838800.0
+Beemster                                ,130080.0,274190.0
+Beesel                                  ,101490.0,236410.0
+Berg en Dal                             ,515950.0,1044370.0
+Bergeijk                                ,599960.0,1334020.0
+Bergen (L.)                             ,212460.0,491030.0
+Bergen (NH.)                            ,479350.0,881590.0
+Bergen op Zoom                          ,413910.0,940070.0
+Berkelland                              ,447630.0,895720.0
+Bernheze                                ,618740.0,1428230.0
+Best                                    ,188940.0,420970.0
+Beuningen                               ,388730.0,900110.0
+Beverwijk                               ,407010.0,917000.0
+Bladel                                  ,178240.0,414740.0
+Blaricum                                ,76480.0,167630.0
+Bloemendaal                             ,392880.0,685130.0
+Bodegraven-Reeuwijk                     ,381360.0,908920.0
+Boekel                                  ,112170.0,276950.0
+Borger-Odoorn                           ,538850.0,911130.0
+Borne                                   ,175480.0,409680.0
+Borsele                                 ,384480.0,811870.0
+Boxmeer                                 ,413560.0,944210.0
+Boxtel                                  ,206950.0,465680.0
+Breda                                   ,597810.0,1489390.0
+Brielle                                 ,160700.0,405030.0
+Bronckhorst                             ,535860.0,1072460.0
+Brummen                                 ,459970.0,901220.0
+Brunssum                                ,429980.0,901530.0
+Bunnik                                  ,127070.0,252630.0
+Bunschoten                              ,127450.0,286270.0
+Buren                                   ,458630.0,1008340.0
+Capelle aan den IJssel                  ,440560.0,1411130.0
+Castricum                               ,300400.0,584060.0
+Coevorden                               ,642850.0,1212390.0
+Cranendonck                             ,228070.0,512690.0
+Cuijk                                   ,256880.0,580590.0
+Culemborg                               ,91090.0,216680.0
+Dalfsen                                 ,395300.0,794440.0
+Dantumadiel                             ,197180.0,336070.0
+De Bilt                                 ,423390.0,807570.0
+De Fryske Marren                        ,1023840.0,1939250.0
+De Ronde Venen                          ,359600.0,790520.0
+De Wolden                               ,536390.0,1004170.0
+Delft                                   ,566810.0,1417260.0
+Delfzijl                                ,473330.0,805680.0
+Den Helder                              ,552920.0,1080000.0
+Deurne                                  ,251670.0,567460.0
+Deventer                                ,760360.0,1607220.0
+Diemen                                  ,196690.0,609060.0
+Dinkelland                              ,612780.0,1289620.0
+Doesburg                                ,85550.0,181290.0
+Doetinchem                              ,821220.0,1743140.0
+Dongen                                  ,176990.0,409310.0
+Dordrecht                               ,909800.0,2111670.0
+Drechterland                            ,229160.0,468980.0
+Drimmelen                               ,206560.0,486670.0
+Dronten                                 ,365050.0,846110.0
+Druten                                  ,182940.0,394250.0
+Duiven                                  ,116880.0,448020.0
+Echt-Susteren                           ,531220.0,1102280.0
+Edam-Volendam                           ,387190.0,783580.0
+Ede                                     ,838060.0,1888470.0
+Eemnes                                  ,103100.0,198150.0
+Eersel                                  ,309690.0,650770.0
+Eijsden-Margraten                       ,456170.0,876410.0
+Eindhoven                               ,1164080.0,2470070.0
+Elburg                                  ,214280.0,452310.0
+Emmen                                   ,1042450.0,1979910.0
+Enkhuizen                               ,105300.0,219980.0
+Enschede                                ,756140.0,1738070.0
+Epe                                     ,372060.0,725620.0
+Ermelo                                  ,178540.0,391720.0
+Etten-Leur                              ,450830.0,1069730.0
+Geertruidenberg                         ,110980.0,274260.0
+Geldrop-Mierlo                          ,156700.0,336220.0
+Gemert-Bakel                            ,326900.0,779650.0
+Gennep                                  ,208940.0,485640.0
+Gilze en Rijen                          ,139540.0,343190.0
+Goeree-Overflakkee                      ,609830.0,1346730.0
+Goes                                    ,315730.0,685490.0
+Goirle                                  ,443340.0,1073910.0
+Gooise Meren                            ,763060.0,1425580.0
+Gorinchem                               ,315290.0,771590.0
+Gouda                                   ,477740.0,1065250.0
+Grave                                   ,210730.0,454950.0
+Groningen                               ,1195430.0,2297760.0
+Gulpen-Wittem                           ,395740.0,748790.0
+Haaksbergen                             ,388070.0,824750.0
+Haaren                                  ,193410.0,419180.0
+Haarlem                                 ,1038760.0,2095650.0
+Haarlemmermeer                          ,1072340.0,2420350.0
+Halderberge                             ,258310.0,572160.0
+Hardenberg                              ,934010.0,1995920.0
+Harderwijk                              ,641060.0,1380970.0
+Hardinxveld-Giessendam                  ,58010.0,137630.0
+Harlingen                               ,140880.0,254500.0
+Hattem                                  ,144030.0,259340.0
+Heemskerk                               ,400770.0,867460.0
+Heemstede                               ,239170.0,439090.0
+Heerde                                  ,164470.0,323970.0
+Heerenveen                              ,369330.0,703280.0
+Heerhugowaard                           ,445260.0,1163620.0
+Heerlen                                 ,787740.0,1640560.0
+Heeze-Leende                            ,164670.0,348180.0
+Heiloo                                  ,295130.0,546490.0
+Hellendoorn                             ,508350.0,1033360.0
+Hellevoetsluis                          ,362290.0,1022550.0
+Helmond                                 ,484830.0,1223600.0
+Hendrik-Ido-Ambacht                     ,166610.0,413820.0
+Hengelo                                 ,642800.0,1379150.0
+Het Hogeland                            ,825230.0,1308400.0
+Heumen                                  ,199840.0,446440.0
+Heusden                                 ,303800.0,695920.0
+Hillegom                                ,241350.0,579530.0
+Hilvarenbeek                            ,180860.0,404970.0
+Hilversum                               ,571290.0,1028940.0
+Hoeksche Waard                          ,523150.0,1183110.0
+Hof van Twente                          ,591770.0,1217830.0
+Hollands Kroon                          ,495590.0,1045150.0
+Hoogeveen                               ,580470.0,1149120.0
+Hoorn                                   ,691140.0,1550880.0
+Horst aan de Maas                       ,658750.0,1453450.0
+Houten                                  ,468510.0,1323260.0
+Huizen                                  ,435590.0,857150.0
+Hulst                                   ,518880.0,1026880.0
+IJsselstein                             ,252800.0,626860.0
+Kaag en Braassem                        ,298790.0,678600.0
+Kampen                                  ,408710.0,818230.0
+Kapelle                                 ,84910.0,177910.0
+Katwijk                                 ,440020.0,1017470.0
+Kerkrade                                ,240670.0,482980.0
+Koggenland                              ,569690.0,1264810.0
+Krimpen aan den IJssel                  ,85240.0,187870.0
+Krimpenerwaard                          ,708160.0,1575300.0
+Laarbeek                                ,190030.0,423920.0
+Landerd                                 ,164930.0,384430.0
+Landgraaf                               ,327760.0,674800.0
+Landsmeer                               ,117390.0,254590.0
+Langedijk                               ,79430.0,189130.0
+Lansingerland                           ,637030.0,1636700.0
+Laren                                   ,176910.0,327510.0
+Leeuwarden                              ,1152690.0,2174630.0
+Leiden                                  ,495220.0,1150540.0
+Leiderdorp                              ,180260.0,421900.0
+Leidschendam-Voorburg                   ,539730.0,1111310.0
+Lelystad                                ,721630.0,1967790.0
+Leudal                                  ,501730.0,1089610.0
+Leusden                                 ,345670.0,748960.0
+Lingewaard                              ,274670.0,602590.0
+Lisse                                   ,262000.0,590660.0
+Lochem                                  ,472280.0,896500.0
+Loon op Zand                            ,362660.0,843280.0
+Lopik                                   ,171420.0,380420.0
+Loppersum                               ,258630.0,404700.0
+Losser                                  ,210310.0,426170.0
+Maasdriel                               ,311440.0,678400.0
+Maasgouw                                ,278580.0,547750.0
+Maassluis                               ,216070.0,524520.0
+Maastricht                              ,535380.0,1063410.0
+Medemblik                               ,635230.0,1379320.0
+Meerssen                                ,215560.0,417500.0
+Meierijstad                             ,973390.0,2166120.0
+Meppel                                  ,456790.0,938430.0
+Middelburg                              ,239730.0,480830.0
+Midden-Delfland                         ,145190.0,308170.0
+Midden-Drenthe                          ,605140.0,1093740.0
+Midden-Groningen                        ,938150.0,1673030.0
+Mill en Sint Hubert                     ,202940.0,460840.0
+Moerdijk                                ,443300.0,1051880.0
+Molenlanden                             ,910680.0,1869380.0
+Montferland                             ,310910.0,691750.0
+Montfoort                               ,158470.0,349850.0
+Mook en Middelaar                       ,94590.0,187650.0
+Neder-Betuwe                            ,217040.0,478910.0
+Nederland                               ,10250.0,23000.0
+Nederweert                              ,209550.0,487150.0
+Nieuwegein                              ,238120.0,857710.0
+Nieuwkoop                               ,286580.0,673150.0
+Nijkerk                                 ,387560.0,873800.0
+Nijmegen                                ,483560.0,1042100.0
+Nissewaard                              ,693350.0,1926700.0
+Noardeast-FryslÃ¢n                       ,944520.0,1598340.0
+Noord-Beveland                          ,156480.0,305310.0
+Noordenveld                             ,366990.0,633030.0
+Noordoostpolder                         ,495430.0,1089900.0
+Noordwijk                               ,203390.0,424660.0
+"Nuenen, Gerwen en Nederwetten           ",160500.0,335420.0
+Nunspeet                                ,185060.0,375360.0
+Oegstgeest                              ,142350.0,336980.0
+Oirschot                                ,201870.0,488210.0
+Oisterwijk                              ,428300.0,915420.0
+Oldambt                                 ,608780.0,1030200.0
+Oldebroek                               ,261530.0,548880.0
+Oldenzaal                               ,296250.0,637160.0
+Olst-Wijhe                              ,349870.0,716120.0
+Ommen                                   ,497370.0,975890.0
+Oost Gelre                              ,478120.0,1031360.0
+Oosterhout                              ,509210.0,1221460.0
+Ooststellingwerf                        ,680270.0,1175890.0
+Oostzaan                                ,65380.0,142900.0
+Opmeer                                  ,124990.0,268320.0
+Opsterland                              ,603170.0,1115110.0
+Oss                                     ,1188910.0,2528370.0
+Oude IJsselstreek                       ,366810.0,786740.0
+Ouder-Amstel                            ,64290.0,184320.0
+Oudewater                               ,196340.0,431400.0
+Overbetuwe                              ,358700.0,825540.0
+Papendrecht                             ,82140.0,217330.0
+Peel en Maas                            ,374600.0,839040.0
+Pekela                                  ,83010.0,141810.0
+Pijnacker-Nootdorp                      ,265650.0,729200.0
+Purmerend                               ,132760.0,696200.0
+Putten                                  ,166140.0,361640.0
+Raalte                                  ,572530.0,1142360.0
+Reimerswaal                             ,286800.0,637470.0
+Renkum                                  ,608840.0,1070000.0
+Renswoude                               ,43880.0,100400.0
+Reusel-De Mierden                       ,163180.0,375110.0
+Rheden                                  ,233100.0,439540.0
+Rhenen                                  ,442100.0,934610.0
+Ridderkerk                              ,212400.0,474270.0
+Rijssen-Holten                          ,424160.0,797580.0
+Rijswijk                                ,346480.0,750670.0
+Roerdalen                               ,250480.0,510790.0
+Roermond                                ,471970.0,997880.0
+Roosendaal                              ,663300.0,1431740.0
+Rotterdam                               ,655650.0,1755990.0
+Rozendaal                               ,43740.0,93570.0
+Rucphen                                 ,175250.0,403320.0
+Schagen                                 ,780940.0,1648920.0
+Scherpenzeel                            ,54090.0,123160.0
+Schiedam                                ,475700.0,1077650.0
+Schiermonnikoog                         ,40180.0,64840.0
+Schouwen-Duiveland                      ,587020.0,1174200.0
+Simpelveld                              ,138880.0,255960.0
+Sint Anthonis                           ,197780.0,480590.0
+Sint-Michielsgestel                     ,311890.0,690510.0
+Sittard-Geleen                          ,459980.0,990530.0
+Sliedrecht                              ,281930.0,621210.0
+Sluis                                   ,426130.0,780440.0
+Smallingerland                          ,319630.0,618970.0
+Soest                                   ,406740.0,839970.0
+Someren                                 ,191580.0,435240.0
+Son en Breugel                          ,116720.0,254590.0
+Stadskanaal                             ,330600.0,598130.0
+Staphorst                               ,320730.0,646280.0
+Stede Broec                             ,97950.0,216450.0
+Steenbergen                             ,203220.0,496860.0
+Steenwijkerland                         ,1017010.0,1932370.0
+Stein                                   ,184740.0,394790.0
+Stichtse Vecht                          ,945310.0,1967190.0
+SÃºdwest-FryslÃ¢n                         ,1406330.0,2571970.0
+Terneuzen                               ,578510.0,1134150.0
+Terschelling                            ,179300.0,320780.0
+Texel                                   ,177710.0,335830.0
+Teylingen                               ,153830.0,339680.0
+Tholen                                  ,233420.0,522320.0
+Tiel                                    ,338430.0,722070.0
+Tilburg                                 ,1737750.0,5099460.0
+Tubbergen                               ,339770.0,745020.0
+Twenterand                              ,366670.0,803500.0
+Tynaarlo                                ,547110.0,959590.0
+Tytsjerksteradiel                       ,401510.0,699970.0
+Uden                                    ,301050.0,701430.0
+Uitgeest                                ,83770.0,188420.0
+Uithoorn                                ,223270.0,494230.0
+Urk                                     ,123280.0,269410.0
+Utrecht                                 ,744070.0,2079740.0
+Utrechtse Heuvelrug                     ,442820.0,844220.0
+Vaals                                   ,107950.0,229030.0
+Valkenburg aan de Geul                  ,330790.0,599830.0
+Valkenswaard                            ,246550.0,549150.0
+Veendam                                 ,235470.0,404060.0
+Veenendaal                              ,396700.0,929860.0
+Veere                                   ,416840.0,819640.0
+Veldhoven                               ,216210.0,489470.0
+Velsen                                  ,680410.0,1419260.0
+Venlo                                   ,1132190.0,2385600.0
+Venray                                  ,596150.0,1328570.0
+Vijfheerenlanden                        ,544030.0,1171460.0
+Vlaardingen                             ,293090.0,715550.0
+Vlieland                                ,32950.0,69600.0
+Vlissingen                              ,324690.0,704030.0
+Voerendaal                              ,233760.0,460640.0
+Voorschoten                             ,156500.0,332600.0
+Voorst                                  ,361360.0,740810.0
+Vught                                   ,238730.0,498360.0
+Waadhoeke                               ,1139670.0,2122820.0
+Waalre                                  ,87630.0,173620.0
+Waalwijk                                ,227090.0,514440.0
+Waddinxveen                             ,245630.0,564780.0
+Wageningen                              ,357090.0,789960.0
+Wassenaar                               ,375660.0,621160.0
+Waterland                               ,263200.0,556850.0
+Weert                                   ,534690.0,1133530.0
+Weesp                                   ,222890.0,535830.0
+West Betuwe                             ,742480.0,1647740.0
+West Maas en Waal                       ,275630.0,565980.0
+Westerkwartier                          ,935750.0,1672860.0
+Westerveld                              ,572030.0,1034060.0
+Westervoort                             ,45910.0,167740.0
+Westerwolde                             ,603680.0,1040720.0
+Westland                                ,764260.0,1854560.0
+Weststellingwerf                        ,701050.0,1264220.0
+Westvoorne                              ,181760.0,393120.0
+Wierden                                 ,350350.0,736260.0
+Wijchen                                 ,608090.0,1389740.0
+Wijdemeren                              ,293260.0,582690.0
+Wijk bij Duurstede                      ,229840.0,528840.0
+Winterswijk                             ,212340.0,435070.0
+Woensdrecht                             ,178270.0,413220.0
+Woerden                                 ,395850.0,836650.0
+Wormerland                              ,185050.0,384810.0
+Woudenberg                              ,142860.0,311390.0
+Zaanstad                                ,655650.0,1382440.0
+Zaltbommel                              ,296440.0,699510.0
+Zandvoort                               ,212710.0,438040.0
+Zeewolde                                ,98140.0,202610.0
+Zeist                                   ,446130.0,896730.0
+Zevenaar                                ,467130.0,1044910.0
+Zoetermeer                              ,302180.0,771790.0
+Zoeterwoude                             ,217240.0,479390.0
+Zuidplas                                ,432820.0,1062900.0
+Zundert                                 ,186160.0,404530.0
+Zutphen                                 ,370140.0,756230.0
+Zwartewaterland                         ,361420.0,742320.0
+Zwijndrecht                             ,656700.0,1468820.0
+Zwolle                                  ,772210.0,1698240.0
