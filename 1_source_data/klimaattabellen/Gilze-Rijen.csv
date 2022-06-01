@@ -1,0 +1,132 @@
+# BRON: KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT (KNMI) 
+#
+# DEZE GEGEVENS MOGEN VRIJ WORDEN GEBRUIKT MITS DE VOLGENDE BRONVERMELDING WORDT GEGEVEN:
+# KONINKLIJK NEDERLANDS METEOROLOGISCH INSTITUUT (KNMI)
+#
+# THESE DATA CAN BE USED FREELY PROVIDED THAT THE FOLLOWING SOURCE IS ACKNOWLEDGED:
+# ROYAL NETHERLANDS METEOROLOGICAL INSTITUTE
+# 
+# STN      LON(east)   LAT(north)     ALT(m)  NAME
+# 350:         4.936       51.566      14.90  GILZE-RIJEN
+#
+# Eenheden en grootheden in de metrics tabel voor WMO normalen.
+#
+# De metrics hebben 2 kenmerken:
+#
+# Meteorologische parameters
+# Wijze van  berekening.
+# Daarbij komen soms 1 of 2 grenswaardes.
+#
+# Meteorologische parameters:
+# TG          : Etmaal gemiddelde temperatuur op 2 m. in graden Celsius 
+# TN          : Minimum  temperatuur op 2 m. in graden Celsius 
+# TX          : Maximum  temperatuur op 2 m. in graden Celsius 
+# T10N        : Minimum  temperatuur op 10 cm in graden Celsius 
+# W1_code     : Weercode voor mist 
+# W2_code     : Weercode sneeuw 
+# UG          : Gemiddelde relatieve vochtigheid in percentage
+# U12         : Relatieve vochtigheid  om 12 UTC gemiddelde in percentage
+# EEG         : Dampdruk in hPa 
+# EV24        : Referentie gewasverdamping in mm per maand, seizoen of jaar 
+# PG          : Luchtdruk in hPa 
+# DR24        : Duur van de neerslag in uren per maand, seizoen of jaar 
+# RHX         : Hoeveelheid neerslag in het natste uur im mm 
+# RH24        : Hoeveelheid neerslag in mm per maand, seizoen of jaar 
+# waterbalans : Neerslag minus verdamping in mm  per maand, seizoen of jaar
+# SQ24        : Duur van zonneschijn in uren  per maand, seizoen of jaar
+# pctzon      : Fractie van het maximale aantal urenzon ( daglicht)  in  percentage
+# pctzon_duur : Het maximale aantal urenzon ( daglicht)  in uren 
+# Q24         : Langgolvige straling in kJ/cm2  per maand, seizoen of jaar
+# FG          : Gemiddelde windsnelheid in m/sec. 
+# FHX         : Hoogste windsnelheid per dag in m/sec
+# FXX         : Hoogste windstoot per dag in m/sec
+#
+# Wijze van berekening:
+# gemiddeld   : Gemiddeld uit 30 jaar maandgemiddeldes 
+# duur        : Gemiddeld uit 30 jaar maandsommen  
+# duur_pct    : In percentage van de tijd.  
+# som         : Gemiddeld uit 30 jaar maandsommen 
+# min         : Verwachtingswaarde minimum 
+# max         : Verwachtingswaarde maximum  
+# minstens    : Gemiddeld aantal dagen waarin de grenswaarde gehaald werd 
+# boven       : Gemiddeld aantal dagen waarin de grenswaarde overschreden werd 
+# beneden     : Gemiddeld aantal dagen waarin de waarde beneden de  grenswaarde viel 
+# tussen      : Gemiddeld aantal dagen waarin de waarde tussen 2 grenswaades viel 
+# gelijk      : Gemiddeld aantal dagen waarin de waarde exact de grenswaarde was  
+# niet_gelijk : Gemiddeld aantal dagen waarin de waarde niet de grenswaarde was  
+#
+#               Normalen_350_H,tijdvak,   1991,   2020
+#                  metric,    jan,    feb,    mar,    apr,    may,    jun,    jul,    aug,    sep,    okt,    nov,    dec, winter,  lente,  zomer, herfst,   jaar
+             TG_gemiddeld,    3.5,    3.9,    6.6,    9.9,   13.6,   16.4,   18.4,   18.0,   14.8,   11.0,    6.9,    4.1,    3.8,   10.0,   17.6,   10.9,   10.6
+                   TG_min,   -4.3,   -2.5,    1.4,    4.3,    8.1,   11.5,   14.2,   13.6,   10.6,    5.4,    0.8,   -2.9,   -6.1,    1.1,   11.3,    0.7,   -6.2
+                   TG_max,    9.9,    9.8,   12.2,   16.5,   20.0,   23.2,   24.6,   23.9,   19.5,   16.4,   13.1,   10.9,   11.8,   20.1,   25.9,   19.6,   25.9
+             TG_beneden_0,    6.7,    4.9,    1.1,      .,      .,      .,      .,      .,      .,      .,    1.1,    5.5,   17.2,    1.1,      .,    1.1,   19.3
+           TG_minstens_20,      .,      .,      .,    0.1,    1.7,    4.4,    8.9,    6.8,    1.1,    0.0,      .,      .,      .,    1.7,   20.1,    1.1,   22.9
+         TG_tussen_0_en_5,   10.8,   11.0,    8.3,    2.2,      .,      .,      .,      .,      .,    1.3,    6.8,   11.3,   33.1,   10.5,      .,    8.1,   51.7
+       TG_tussen_10_en_15,    1.6,    1.5,    4.8,   11.5,   15.2,   10.3,    3.8,    3.8,   15.6,   16.1,    5.8,    2.5,    5.6,   31.5,   17.8,   37.4,   92.3
+       TG_tussen_15_en_20,      .,      .,    0.1,    2.8,    9.1,   15.1,   18.3,   20.4,   12.8,    3.3,    0.2,      .,      .,   11.9,   53.9,   16.3,   82.0
+        TG_tussen_5_en_10,   11.8,   10.8,   16.8,   13.4,    5.1,    0.2,      .,      .,    0.6,   10.2,   16.1,   11.8,   34.4,   35.3,    0.2,   27.0,   96.9
+             TN_gemiddeld,    0.4,    0.3,    2.1,    4.1,    7.7,   10.6,   12.8,   12.4,    9.8,    6.8,    3.5,    1.2,    0.6,    4.6,   11.9,    6.7,    6.0
+                   TN_min,   -8.8,   -7.4,   -4.8,   -2.8,    0.9,    4.8,    7.3,    7.1,    4.3,   -0.1,   -3.7,   -7.0,  -11.1,   -5.2,    4.5,   -4.2,  -11.3
+                   TN_max,    7.7,    7.5,    8.9,   10.4,   13.6,   16.5,   17.7,   17.6,   14.8,   13.4,   10.8,    8.6,    9.9,   13.7,   19.0,   15.0,   19.0
+             TN_beneden_0,   12.8,   12.3,    9.2,    4.6,    0.4,      .,      .,      .,    0.0,    1.5,    5.5,   11.6,   36.6,   14.3,      .,    7.0,   57.9
+           TN_beneden_-10,    0.8,    0.8,    0.1,      .,      .,      .,      .,      .,      .,      .,    0.1,    0.3,    2.0,    0.1,      .,    0.1,    2.1
+            TN_beneden_-5,    4.4,    3.1,    1.0,    0.2,      .,      .,      .,      .,      .,    0.1,    0.7,    3.0,   10.5,    1.2,      .,    0.8,   12.5
+           TN_minstens_20,      .,      .,      .,      .,      .,    0.0,    0.1,    0.1,      .,      .,      .,      .,      .,      .,    0.3,      .,    0.3
+             TX_gemiddeld,    6.2,    7.3,   10.9,   15.4,   18.9,   21.7,   23.7,   23.5,   19.9,   15.1,   10.0,    6.7,    6.7,   15.1,   23.0,   15.0,   14.9
+                   TX_min,   -1.1,    0.6,    4.9,    8.6,   11.8,   15.0,   17.7,   17.5,   14.3,    9.3,    3.6,   -0.2,   -2.7,    4.7,   14.7,    3.6,   -2.7
+                   TX_max,   12.7,   13.6,   18.1,   23.8,   27.5,   30.7,   32.2,   31.6,   26.6,   21.7,   16.4,   13.0,   14.9,   27.8,   34.1,   26.8,   34.1
+             TX_beneden_0,    2.6,    1.5,    0.1,      .,      .,      .,      .,      .,      .,      .,    0.3,    1.9,    6.0,    0.1,      .,    0.3,    6.4
+           TX_minstens_15,    0.1,    0.7,    4.6,   14.1,   24.7,   28.9,   30.9,   31.0,   28.7,   16.5,    2.2,    0.1,    0.9,   43.4,   90.7,   47.4,  182.4
+           TX_minstens_20,      .,      .,    0.5,    5.0,   12.1,   18.4,   24.3,   25.6,   13.3,    2.7,    0.1,      .,      .,   17.6,   68.3,   16.1,  102.0
+           TX_minstens_25,      .,      .,      .,    1.0,    3.8,    6.8,   11.0,    8.9,    2.8,    0.2,      .,      .,      .,    4.8,   26.7,    3.0,   34.6
+           TX_minstens_30,      .,      .,      .,      .,    0.3,    1.3,    2.9,    2.5,    0.2,      .,      .,      .,      .,    0.3,    6.7,    0.2,    7.2
+           TX_minstens_35,      .,      .,      .,      .,      .,      .,    0.3,    0.3,    0.0,      .,      .,      .,      .,      .,    0.6,    0.0,    0.7
+           T10N_beneden_0,   14.8,   15.0,   14.8,   11.3,    4.1,    0.7,      .,    0.0,    0.5,    4.3,    9.2,   13.6,   43.4,   30.2,    0.8,   14.1,   88.5
+       W1_code_minstens_1,    6.3,    6.5,    5.8,    4.3,    3.4,    3.2,    2.6,    4.9,    7.4,    8.0,    8.6,    8.4,   21.2,   13.5,   10.7,   24.0,   69.4
+       W3_code_minstens_1,    4.7,    5.6,    2.6,    0.1,      .,      .,      .,      .,      .,    0.1,    0.8,    4.7,   15.0,    2.8,      .,    0.8,   18.6
+             UG_gemiddeld,   87.0,   84.1,   78.9,   73.1,   72.9,   74.3,   75.5,   77.1,   81.6,   85.4,   89.2,   89.0,   86.7,   75.0,   75.6,   85.4,   80.7
+            U12_gemiddeld,   82.6,   77.2,   67.7,   57.8,   58.5,   60.6,   61.8,   61.8,   66.2,   73.7,   82.5,   85.1,   81.6,   61.3,   61.4,   74.1,   69.6
+            EEG_gemiddeld,    7.1,    7.0,    7.8,    8.8,   11.2,   13.7,   15.6,   15.6,   13.7,   11.4,    9.1,    7.6,    7.2,    9.3,   15.0,   11.4,   10.7
+           EV24_gemiddeld,    0.3,    0.6,    1.2,    2.1,    2.8,    3.2,    3.2,    2.7,    1.8,    0.9,    0.4,    0.2,    0.4,    2.0,    3.0,    1.0,    1.6
+                 EV24_som,    9.1,   16.0,   36.2,   63.0,   87.8,   96.6,   99.0,   84.7,   54.0,   29.2,   12.2,    7.0,   32.1,  187.0,  280.3,   95.4,  594.8
+             PG_gemiddeld, 1016.9, 1016.6, 1016.0, 1014.6, 1015.9, 1016.3, 1015.5, 1015.4, 1016.2, 1015.0, 1014.0, 1015.9, 1016.5, 1015.5, 1015.7, 1015.1, 1015.7
+                DR24_duur,   74.2,   69.9,   57.7,   39.1,   43.9,   38.0,   40.6,   38.1,   44.5,   56.5,   72.2,   84.0,  228.1,  140.7,  116.7,  173.2,  658.7
+            DR24_duur_pct,   10.0,   10.3,    7.7,    5.4,    5.9,    5.3,    5.5,    5.1,    6.2,    7.6,   10.0,   11.3,   10.5,    6.4,    5.3,    7.9,    7.5
+             DR24_boven_0,   17.6,   15.8,   15.1,   12.4,   13.6,   13.1,   14.4,   13.8,   13.1,   15.8,   17.9,   18.4,   51.8,   41.2,   41.3,   46.8,  181.1
+                 RH24_som,   68.0,   63.1,   54.8,   42.5,   59.8,   66.5,   81.4,   71.6,   65.4,   69.9,   74.2,   81.9,  213.0,  157.1,  219.5,  209.5,  799.1
+                  RHX_max,    4.0,    3.5,    3.9,    4.2,    7.7,   10.4,   12.7,   10.2,    7.2,    6.3,    4.6,    4.1,    5.4,    8.4,   17.9,    8.7,   18.6
+            RH24_gelijk_0,    9.1,    8.5,   12.3,   13.5,   14.0,   13.4,   12.9,   13.7,   13.1,   11.7,    8.7,    8.5,   26.1,   39.8,   39.9,   33.5,  139.3
+        RH24_minstens_0.1,   17.6,   15.8,   15.2,   12.4,   13.6,   13.1,   14.4,   13.8,   13.1,   15.8,   17.9,   18.4,   51.8,   41.2,   41.3,   46.8,  181.1
+        RH24_minstens_0.3,   15.7,   13.7,   13.6,   11.1,   12.1,   11.5,   12.9,   12.4,   11.9,   14.0,   15.7,   16.5,   45.9,   36.8,   36.8,   41.6,  161.2
+          RH24_minstens_1,   12.2,   11.0,    9.9,    8.8,    9.6,    9.2,   10.8,   10.4,    9.5,   10.7,   12.6,   13.6,   36.8,   28.2,   30.3,   32.9,  128.2
+         RH24_minstens_10,    1.4,    1.7,    1.5,    0.8,    1.7,    2.2,    2.5,    2.4,    1.9,    1.8,    1.5,    2.2,    5.3,    4.0,    7.0,    5.3,   21.6
+         RH24_minstens_15,    0.8,    0.5,    0.6,    0.3,    0.9,    1.3,    1.3,    1.1,    0.9,    0.8,    0.7,    0.8,    2.2,    1.7,    3.6,    2.4,    9.9
+         RH24_minstens_20,    0.2,    0.2,    0.2,    0.1,    0.2,    0.5,    0.6,    0.5,    0.5,    0.4,    0.3,    0.4,    0.8,    0.5,    1.5,    1.2,    4.1
+         RH24_minstens_25,    0.0,    0.1,    0.1,      .,    0.1,    0.2,    0.4,    0.2,    0.3,    0.2,    0.2,    0.2,    0.3,    0.2,    0.8,    0.7,    2.0
+       RH24_niet_gelijk_0,   21.9,   19.7,   18.7,   16.5,   17.0,   16.6,   18.1,   17.3,   16.9,   19.3,   21.3,   22.5,   64.2,   52.2,   52.1,   57.5,  225.9
+          waterbalans_som,   58.9,   47.1,   18.7,  -20.5,  -28.0,  -30.1,  -17.6,  -13.1,   11.4,   40.7,   61.9,   74.9,  180.9,  -29.8,  -60.8,  114.0,  204.3
+            SQ24_gelijk_0,    9.5,    5.8,    4.0,    0.9,    1.5,    0.8,    1.0,    0.9,    1.7,    3.3,    7.3,   11.2,   26.6,    6.4,    2.7,   12.3,   47.9
+       SQ24_niet_gelijk_0,   21.5,   22.4,   27.0,   29.1,   29.5,   29.2,   30.0,   30.1,   28.3,   27.7,   22.7,   19.8,   63.7,   85.6,   89.3,   78.7,  317.3
+           SQ24_gemiddeld,    2.3,    3.2,    4.5,    6.3,    7.0,    7.0,    6.8,    6.4,    5.3,    3.9,    2.4,    1.9,    2.5,    5.9,    6.7,    3.9,    4.7
+         pctzon_gemiddeld,   27.0,   31.8,   37.4,   45.4,   44.6,   42.3,   42.5,   43.7,   41.9,   36.0,   26.7,   23.5,   27.4,   42.5,   42.8,   34.9,   36.9
+      pctzon_hoogstens_20,   17.6,   13.2,   12.1,    6.9,    8.4,    7.8,    7.8,    7.1,    8.7,   11.4,   16.2,   18.7,   49.5,   27.5,   22.7,   36.3,  135.9
+   pctzon_tussen_20_en_50,    5.7,    7.0,    8.0,   10.5,    8.8,   10.9,   10.7,   11.1,    9.6,    9.4,    7.2,    6.0,   18.7,   27.4,   32.6,   26.1,  104.8
+   pctzon_tussen_50_en_80,    4.3,    4.5,    6.3,    7.5,    8.5,    7.6,    9.3,    9.3,    7.7,    7.1,    4.4,    3.9,   12.7,   22.3,   26.2,   19.2,   80.4
+       pctzon_minstens_80,    3.4,    3.6,    4.5,    5.1,    5.3,    3.7,    3.2,    3.6,    4.0,    3.1,    2.2,    2.4,    9.4,   14.9,   10.5,    9.4,   44.1
+                 SQ24_som,   70.6,   89.9,  138.1,  188.4,  215.7,  210.1,  212.2,  198.1,  159.4,  119.4,   71.7,   57.5,  218.0,  542.2,  620.4,  350.5, 1731.1
+                  Q24_som,    7.9,   13.3,   27.3,   42.8,   54.4,   56.3,   55.5,   47.9,   32.7,   19.5,    9.1,    5.9,   27.1,  124.5,  159.7,   61.3,  372.6
+             UP_gemiddeld,    4.7,    4.5,    4.4,    3.9,    3.8,    3.6,    3.5,    3.3,    3.4,    3.9,    4.0,    4.4,    4.5,    4.0,    3.5,    3.8,    4.0
+             FG_gemiddeld,    4.3,    4.2,    4.0,    3.7,    3.6,    3.4,    3.2,    3.1,    3.2,    3.6,    3.7,    4.1,    4.2,    3.8,    3.2,    3.5,    3.7
+                   FG_max,    8.3,    8.0,    7.7,    6.8,    6.2,    5.9,    5.5,    5.3,    6.0,    6.9,    7.1,    7.8,    9.1,    8.0,    6.2,    7.7,    9.4
+            FHX_gemiddeld,    6.4,    6.3,    6.3,    6.1,    5.8,    5.5,    5.4,    5.3,    5.3,    5.6,    5.7,    6.1,    6.3,    6.1,    5.4,    5.5,    5.8
+                  FHX_max,   11.6,   11.2,   11.3,   10.3,    9.3,    8.8,    8.6,    8.7,    9.0,   10.0,   10.5,   11.1,   13.2,   11.7,    9.5,   11.4,   13.8
+        FHX_minstens_Bft4,   18.5,   16.5,   18.5,   18.1,   17.6,   14.8,   13.9,   12.9,   12.9,   15.1,   14.7,   16.9,   52.0,   54.1,   41.7,   42.8,  190.6
+        FHX_minstens_Bft5,    9.1,    8.1,    8.0,    6.2,    4.4,    2.6,    2.4,    2.4,    3.3,    5.2,    5.9,    8.3,   25.6,   18.6,    7.4,   14.4,   66.0
+        FHX_minstens_Bft6,    2.0,    1.5,    1.3,    0.5,    0.1,    0.1,    0.1,    0.0,    0.1,    0.6,    0.7,    1.3,    4.7,    1.9,    0.3,    1.4,    8.3
+        FHX_minstens_Bft7,    0.3,    0.1,    0.1,      .,      .,      .,      .,      .,      .,    0.1,    0.1,    0.2,    0.6,    0.1,      .,    0.2,    0.9
+            FXX_gemiddeld,   11.0,   11.3,   10.9,   10.6,   10.7,   10.2,   10.1,    9.8,    9.5,   10.1,   10.0,   10.7,   11.0,   10.7,   10.0,    9.9,   10.4
+                  FXX_max,   20.5,   20.6,   20.0,   17.6,   17.2,   17.0,   15.9,   16.7,   16.8,   18.5,   18.8,   19.6,   23.5,   21.1,   18.7,   20.9,   25.1
+          FXX_minstens_21,    1.0,    1.0,    0.5,    0.0,    0.1,    0.2,      .,    0.1,    0.1,    0.3,    0.4,    0.6,    2.6,    0.7,    0.3,    0.7,    4.3
+          FXX_minstens_28,    0.0,    0.0,    0.1,      .,      .,      .,      .,      .,      .,    0.0,      .,      .,    0.1,    0.1,      .,    0.0,    0.2
+
