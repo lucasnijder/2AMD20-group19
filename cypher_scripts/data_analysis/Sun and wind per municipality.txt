@@ -1,0 +1,4 @@
+MATCH (g:Municipality)-[:DISTANCE_TO]-(f:WeatherStation)
+WITH f.avgPctSunPerDay AS AvgSun, f.avgWindSpeed AS AvgWind, g.name AS Municipality
+WHERE g.name = "VENLO"
+RETURN Municipality, avg(AvgSun), avg(AvgWind);

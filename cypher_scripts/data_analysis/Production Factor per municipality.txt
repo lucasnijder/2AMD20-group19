@@ -1,0 +1,4 @@
+MATCH (g:Municipality)-[:LIES_IN]->(p:Province)
+WITH p.productionFactor AS ProductionFactor, g.name AS Municipality
+WHERE g.name = "OSS" 
+RETURN ProductionFactor, Municipality;

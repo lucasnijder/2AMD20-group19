@@ -1,0 +1,4 @@
+MATCH (g:Municipality)
+WITH toFloat(g.installedCapacitySolarPanels)/toFLoat(g.homeInstallations) AS RatioSun, g.name AS Municipality
+WHERE g.name = "OSS" 
+RETURN RatioSun, Municipality

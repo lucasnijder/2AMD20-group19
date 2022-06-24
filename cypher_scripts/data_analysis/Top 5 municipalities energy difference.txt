@@ -1,0 +1,4 @@
+MATCH (g:Municipality)
+WITH ((g.homeInstallations*300) - ((g.population/2.14)*(g.avgElectricityUsage+(10.2*g.avgNaturalGasUsage)))) AS DifferenceProductionConsumption, g.name AS Municipality,
+ (((g.homeInstallations*300) - ((g.population/2.14)*(g.avgElectricityUsage+(10.2*g.avgNaturalGasUsage))))/g.population) AS DifferenceProductionConsumptionRelative
+RETURN DISTINCT Municipality, DifferenceProductionConsumption, DifferenceProductionConsumptionRelative ORDER BY DifferenceProductionConsumptionRelative  LIMIT 5;
